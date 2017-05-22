@@ -3,19 +3,20 @@ favicon: /favicon.ico
 # SEO
 keywords: Hexo, Gruntjs, Nodejs, Reactjs, Vuejs
 # Header
-page_background: http://callfiles.ueibo.com/hexo-theme-laughing/page_background.jpg
+page_background: /images/default_site_bg.jpg
 page_menu_button: dark
-post_background: http://callfiles.ueibo.com/hexo-theme-laughing/post_background.jpg
 post_menu_button: light
 title_plancehold: 随笔
 author:
-  head: http://callfiles.ueibo.com/hexo-theme-laughing/thumb.jpg
-  signature: Only when you plant the flowers can you really smell their fragrance.
+  head: images/profile.jpg
+  signature: Thoughts about pixels, voxels and texels.
 navication:
   - name: Github
-    link: https://github.com
-  - name: V2EX
-    link: https://www.v2ex.com/
+    link: https://github.com/jonathanlurie
+  - name: Twitter
+    link: https://twitter.com/jonathanlurie
+  - name: About
+    link: http://me.jonathanlurie.fr
 # content
 content_width: 800
 # Footer
@@ -23,19 +24,16 @@ content_width: 800
 social:
   - name: Github
     icon: github
-    link: https://github.com/BoizZ
-  - name: Weibo
-    icon: weibo
-    link: https://weibo.com/heqibang
-  - name: SegmentFault
-    icon: segmentfault
-    link: https://www.segmentfault.com/u/bon
+    link: https://github.com/jonathanlurie
+  - name: Twitter
+    icon: twitter
+    link: https://twitter.com/jonathanlurie
 # Duoshuo
 duoshuo:
-  enable: true
+  enable: false
   siteName: ueibo
 # Copyright
 copyright:
   record: false
-  hexo: true
-  laughing: true
+  hexo: false
+  laughing: false
