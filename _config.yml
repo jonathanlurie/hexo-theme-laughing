@@ -3,7 +3,7 @@ favicon: /favicon.ico
 # SEO
 keywords: Hexo, Gruntjs, Nodejs, Reactjs, Vuejs
 # Header
-page_background: /images/default_site_bg.jpg
+page_background: /images/default_post_bg.jpg
 page_menu_button: dark
 post_menu_button: light
 title_plancehold: 随笔
